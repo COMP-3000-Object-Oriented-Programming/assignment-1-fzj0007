@@ -4,18 +4,11 @@ using namespace std;
 
 int main() {
 
-const int acc = 32; 
-int t; 
-int distance; 
+    int max = ;
+    int currentN , comingN;
 
-cout << "Enter a time in seconds: "<< endl; 
+    cout<< ""
 
-cin>> t; 
 
-distance = (acc/2) * (t*t);
-
-cout<< ""<< t << "will fall in" << distance << "feet"; 
-
-return 0; 
 }
 
